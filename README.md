@@ -42,4 +42,6 @@ Isso resulta:
 
 ![image](https://user-images.githubusercontent.com/69855489/124361710-dcf6ac00-dc06-11eb-88ac-f4b64c14c05d.png)
 
+<p Align=center>
+<img src ="https://64.media.tumblr.com/39240cabb4a10556459808190bd79195/cb61da9def746b60-be/s1280x1920/0f2196b58ec8bf38f21292d5a9fb7913e9245f39.png" height="5px" width="100%"> </p>
 
