@@ -20,7 +20,7 @@ Esse repositório tem a finalidade de colocar utilidades se reutilizar para os R
 - Tabelas
 - Centralizar texto
 - Utilidades+
-- Créditos
+- [Créditos](#Créditos)
 
 <p Align=center>
 <img src ="https://64.media.tumblr.com/39240cabb4a10556459808190bd79195/cb61da9def746b60-be/s1280x1920/0f2196b58ec8bf38f21292d5a9fb7913e9245f39.png" height="5px" width="100%"> </p>
@@ -242,3 +242,11 @@ Para usar as checkbox, você deve:
 - [ ] Tópico 4
 <p Align=center>
 <img src ="https://64.media.tumblr.com/39240cabb4a10556459808190bd79195/cb61da9def746b60-be/s1280x1920/0f2196b58ec8bf38f21292d5a9fb7913e9245f39.png" height="5px" width="100%"> </p>
+
+## Créditos:
+<img src ="https://media2.giphy.com/media/2gj0dN1E4f9xUP21Yx/giphy.gif?cid=ecf05e47oxlqgdbw4v6yg8ntwp24n8bzto7sx1zzr7maose0&rid=giphy.gif&ct=s" height="20px" width="auto"> [Como fazer um README.md BONITÃO](https://raullesteves.medium.com/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8) 
+
+<p Align=center>
+<img src ="https://64.media.tumblr.com/39240cabb4a10556459808190bd79195/cb61da9def746b60-be/s1280x1920/0f2196b58ec8bf38f21292d5a9fb7913e9245f39.png" height="5px" width="100%"> </p>
+
+
