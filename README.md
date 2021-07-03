@@ -12,8 +12,7 @@ Esse repositório tem a finalidade de colocar utilidades se reutilizar para os R
 - [Links](#Links)
 - [Imagens](#Imagens)
 - [Edições de texto (Negrito, itálico e etc...)](#Edições-de-Texto)
-- Códigos
-- Colorir parte do código
+- [Códigos](#Códigos)
 - Listas ordenadas
 - Listas não ordenadas
 - Checkbox
