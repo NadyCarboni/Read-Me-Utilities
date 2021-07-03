@@ -139,10 +139,10 @@ Resultado:
 ### Tachado
 
 ```
-~~Coloque o texto entre tios assim~~
+~~Coloque o texto entre "tios" assim~~
 ```
 Resultado:
 
-~~Coloque o texto entre tios assim~~
+~~Coloque o texto entre "tios" assim~~
 
 
