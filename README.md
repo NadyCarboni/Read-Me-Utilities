@@ -311,7 +311,8 @@ Link | Para
 
 
 ### Até mais!
-<img src ="https://media0.giphy.com/media/Y3ksQyRozoCYjMXBQc/giphy.gif?cid=ecf05e47wvwhp58cwetcoab3cbvh750ocrcyc87qw4o1bnhe&rid=giphy.gif&ct=s" height="150px"> 
+
+<img src ="https://media1.giphy.com/media/mjQG3C8g8Uzc9Cv09F/giphy.gif?cid=ecf05e475a1dncy3l27nfaagug0ioemtsvcw913fznlftm6j&rid=giphy.gif&ct=s" width = "100px" height = "auto"> 
 
 
 
