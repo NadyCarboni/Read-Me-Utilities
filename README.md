@@ -68,7 +68,7 @@ Você deve colocar no endereço um "#" seguido pelo título do cabeçalho.
 ```
 [Aqui você "nomeia" o link](#Aqui-você-coloca-o-título)
 ```
-**Isso resulta: **
+**Isso resulta:**
 
 [Aqui você "nomeia" o link](#Aqui-você-coloca-o-título)
 
