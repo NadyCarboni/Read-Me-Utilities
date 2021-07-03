@@ -109,7 +109,7 @@ Adicionando as propriedades Height e Width na imagem:
 <img src ="https://media3.giphy.com/media/daa8oT5L8Ox3ffWVjr/giphy.gif?cid=ecf05e47bsgonexr02yo6k2b72un2v41dgenbuinl2k47078&rid=giphy.gif&c" 
 height="100px" width="auto"> 
 ```
-
+**Isso resulta:**
 <img src ="https://media3.giphy.com/media/daa8oT5L8Ox3ffWVjr/giphy.gif?cid=ecf05e47bsgonexr02yo6k2b72un2v41dgenbuinl2k47078&rid=giphy.gif&c" 
-height="100px" width="auto">  
+height="150px" width="auto">  
 
