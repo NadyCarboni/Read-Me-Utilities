@@ -13,8 +13,8 @@ Esse repositório tem a finalidade de colocar utilidades se reutilizar para os R
 - [Imagens](#Imagens)
 - [Edições de texto (Negrito, itálico e etc...)](#Edições-de-Texto)
 - [Códigos](#Códigos)
-- Listas ordenadas
-- Listas não ordenadas
+- [Listas ordenadas](#Listas-ordenadas)
+- [Listas não ordenadas](#Listas-não-ordenadas)
 - Checkbox
 - Quotes
 - Tabelas
@@ -191,4 +191,34 @@ Para colocar código embutido você deve usar as crases assim:
 
 <p Align=center>
 <img src ="https://64.media.tumblr.com/39240cabb4a10556459808190bd79195/cb61da9def746b60-be/s1280x1920/0f2196b58ec8bf38f21292d5a9fb7913e9245f39.png" height="5px" width="100%"> </p>
+
+## Listas ordenadas
+Referentes as <ol></ol> no HTML
+
+```
+1. Tópico 1
+2. Tópico 2
+```
+
+**Resultado:**
+
+1. Tópico 1
+2. Tópico 2
+
+<p Align=center>
+<img src ="https://64.media.tumblr.com/39240cabb4a10556459808190bd79195/cb61da9def746b60-be/s1280x1920/0f2196b58ec8bf38f21292d5a9fb7913e9245f39.png" height="5px" width="100%"> </p>
+
+
+## Listas não ordenadas
+Referentes as <ul></ul> no HTML
+
+```
+- Tópico 1
+- Tópico 2
+```
+
+**Resultado:**
+
+- Tópico 1
+- Tópico 2
 
