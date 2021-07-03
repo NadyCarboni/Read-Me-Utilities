@@ -11,7 +11,7 @@ Esse repositório tem a finalidade de colocar utilidades se reutilizar para os R
 - [Headers](#Headers)
 - [Links](#Links)
 - [Imagens](#Imagens)
-- [Edições de texto (Negrito, itálico e etc...)](#Imagens)
+- [Edições de texto (Negrito, itálico e etc...)](#Edições-de-Texto)
 - Códigos
 - Colorir parte do código
 - Listas ordenadas
@@ -135,7 +135,6 @@ Resultado:
 
 *Coloque o texto entre asterísticos assim*
 
-_r_
 ### Tachado
 
 ```
