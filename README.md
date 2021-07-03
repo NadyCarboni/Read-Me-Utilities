@@ -47,7 +47,7 @@ Código:
 <img src ="https://64.media.tumblr.com/39240cabb4a10556459808190bd79195/cb61da9def746b60-be/s1280x1920/0f2196b58ec8bf38f21292d5a9fb7913e9245f39.png" height="5px" width="100%"> </p>
 
 ## Links
-Links são referentes as tags <a></a> no HTML.
+Links são referentes as tags `<a></a>` no HTML.
 
 **Como funciona a sintaxe?**
 ```
@@ -193,7 +193,7 @@ Para colocar código embutido você deve usar as crases assim:
 <img src ="https://64.media.tumblr.com/39240cabb4a10556459808190bd79195/cb61da9def746b60-be/s1280x1920/0f2196b58ec8bf38f21292d5a9fb7913e9245f39.png" height="5px" width="100%"> </p>
 
 ## Listas ordenadas
-Referentes as <ol></ol> no HTML
+Referentes as `<ol></ol>` no HTML
 
 ```
 1. Tópico 1
@@ -210,7 +210,7 @@ Referentes as <ol></ol> no HTML
 
 
 ## Listas não ordenadas
-Referentes as <ul></ul> no HTML
+Referentes as `<ul></ul>` no HTML
 
 ```
 - Tópico 1
