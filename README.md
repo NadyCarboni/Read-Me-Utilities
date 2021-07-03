@@ -126,7 +126,7 @@ Resultado:
 
 **(Coloque o texto entre dois asterísticos assim)**
 
-### Itálico
+### Itálico:
 ```
 *Coloque o texto entre asterísticos assim*
 ```
@@ -134,7 +134,7 @@ Resultado:
 
 *Coloque o texto entre asterísticos assim*
 
-### Tachado
+### Tachado:
 
 ```
 ~~Coloque o texto entre "tios" assim~~
