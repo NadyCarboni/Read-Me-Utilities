@@ -15,7 +15,7 @@ Esse repositório tem a finalidade de colocar utilidades se reutilizar para os R
 - [Códigos](#Códigos)
 - [Listas ordenadas](#Listas-ordenadas)
 - [Listas não ordenadas](#Listas-não-ordenadas)
-- Checkbox
+- [Checkbox](#Checkbox)
 - Quotes
 - Tabelas
 - Centralizar texto
@@ -222,3 +222,23 @@ Referentes as `<ul></ul>` no HTML
 - Tópico 1
 - Tópico 2
 
+<p Align=center>
+<img src ="https://64.media.tumblr.com/39240cabb4a10556459808190bd79195/cb61da9def746b60-be/s1280x1920/0f2196b58ec8bf38f21292d5a9fb7913e9245f39.png" height="5px" width="100%"> </p>
+
+## Checkbox
+
+Para usar as checkbox, você deve:
+
+```
+- [ ] Tópico 1
+- [x] Tópico 2
+- [x] Tópico 3
+- [ ] Tópico 4
+```
+**Isso resulta:**
+- [ ] Tópico 1
+- [x] Tópico 2
+- [x] Tópico 3
+- [ ] Tópico 4
+<p Align=center>
+<img src ="https://64.media.tumblr.com/39240cabb4a10556459808190bd79195/cb61da9def746b60-be/s1280x1920/0f2196b58ec8bf38f21292d5a9fb7913e9245f39.png" height="5px" width="100%"> </p>
