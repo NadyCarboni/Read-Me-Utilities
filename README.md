@@ -11,7 +11,6 @@ Esse repositório tem a finalidade de colocar utilidades se reutilizar para os R
 - [Headers](#Headers)
 - [Links](#Links)
 - [Imagens](#Imagens)
-- Como modificar a largura/altura de uma imagem
 - Edições de texto (Negrito, itálico e etc...)
 - Códigos
 - Colorir parte do código
@@ -116,3 +115,34 @@ height="150px" width="auto">
 
 <p Align=center>
 <img src ="https://64.media.tumblr.com/39240cabb4a10556459808190bd79195/cb61da9def746b60-be/s1280x1920/0f2196b58ec8bf38f21292d5a9fb7913e9245f39.png" height="5px" width="100%"> </p>
+
+## Edições de Texto
+
+### Negrito: 
+
+```
+**(Coloque o texto entre dois asterísticos assim)**
+```
+Resultado:
+
+**(Coloque o texto entre dois asterísticos assim)**
+
+### Itálico
+```
+*Coloque o texto entre asterísticos assim*
+```
+Resultado:
+
+*Coloque o texto entre asterísticos assim*
+
+
+### Tachado
+
+```
+~~Coloque o texto entre tios assim~~
+```
+Resultado:
+
+~~Coloque o texto entre tios assim~~
+
+
