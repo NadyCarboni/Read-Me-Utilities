@@ -9,9 +9,10 @@ Esse repositório tem a finalidade de colocar utilidades se reutilizar para os R
 
 ## Tópicos
 - [Headers](#Headers)
-- Links
+- [Links](#Links)
 - Imagens
 - Como modificar a largura/altura de uma imagem
+- Edições de texto (Negrito, itálico e etc...)
 - Códigos
 - Colorir parte do código
 - Listas ordenadas
@@ -29,7 +30,9 @@ Esse repositório tem a finalidade de colocar utilidades se reutilizar para os R
 ## Headers
 Headers ou cabeçalhos são equivalentes as tags H1, H2, H3, H4, H5 e H6 do HTML.
 
-Para utilizar os headers no Markdown você deve colocar "#"s na frente do seu texto. O nímero de **"#"s** deve ser **igual ao número do cabeçalho** que você deseja:
+Para utilizar os headers no Markdown você deve colocar "#"s na frente do seu texto. O nímero de **"#"s** deve ser **igual ao número do cabeçalho** que você deseja.
+
+Código:
 ```
 # Isso é um texto H1
 ## Isso é um texto H2
@@ -38,10 +41,40 @@ Para utilizar os headers no Markdown você deve colocar "#"s na frente do seu te
 ##### Isso é um texto H5
 ###### Isso é um texto H6
 ```
-Isso resulta:
+**Isso resulta:**
 
 ![image](https://user-images.githubusercontent.com/69855489/124361710-dcf6ac00-dc06-11eb-88ac-f4b64c14c05d.png)
 
 <p Align=center>
 <img src ="https://64.media.tumblr.com/39240cabb4a10556459808190bd79195/cb61da9def746b60-be/s1280x1920/0f2196b58ec8bf38f21292d5a9fb7913e9245f39.png" height="5px" width="100%"> </p>
+
+## Links
+Links são referentes as tags <a></a> no HTML.
+
+**Como funciona a sintaxe?**
+```
+[Aqui você "nomeia" o link](E Aqui você insere o endereço do link)
+```
+**Exemplo funcional:**
+
+```
+[Isso é um link](https://www.youtube.com/watch?v=Wgw6tJ8yz9M)
+```
+**Isso resulta:** 
+[Isso é um link](https://www.youtube.com/watch?v=Wgw6tJ8yz9M)
+
+### Como colocar um link que está dentro do próprio README:
+Você deve colocar no endereço um "#" seguido pelo título do cabeçalho.
+
+```
+[Aqui você "nomeia" o link](#Aqui-você-coloca-o-título)
+```
+**Isso resulta: **
+
+[Aqui você "nomeia" o link](#Aqui-você-coloca-o-título)
+
+###### Aqui você coloca o título
+E ao clicar nesse link você é redirecionado para o cabeçalho à cima :) 
+
+
 
