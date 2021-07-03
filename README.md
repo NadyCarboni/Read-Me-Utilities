@@ -79,3 +79,37 @@ E ao clicar nesse link você é redirecionado para o cabeçalho à cima :)
 
 <p Align=center>
 <img src ="https://64.media.tumblr.com/39240cabb4a10556459808190bd79195/cb61da9def746b60-be/s1280x1920/0f2196b58ec8bf38f21292d5a9fb7913e9245f39.png" height="5px" width="100%"> </p>
+
+### Imagens
+A imagens são similares aos links no Markdown
+```
+![Alt da imagem](Aqui o endereço)
+```
+
+**Exemplo Real**
+```
+![Plantinha](https://media3.giphy.com/media/daa8oT5L8Ox3ffWVjr/giphy.gif?cid=ecf05e47bsgonexr02yo6k2b72un2v41dgenbuinl2k47078&rid=giphy.gif&ct=s)
+```
+**Isso resulta:**
+
+![Plantinha](https://media3.giphy.com/media/daa8oT5L8Ox3ffWVjr/giphy.gif?cid=ecf05e47bsgonexr02yo6k2b72un2v41dgenbuinl2k47078&rid=giphy.gif&ct=s)
+
+### Porém eu prefiro utilizar a tag HTML, nesse caso:
+```
+<img src ="https://media3.giphy.com/media/daa8oT5L8Ox3ffWVjr/giphy.gif?cid=ecf05e47bsgonexr02yo6k2b72un2v41dgenbuinl2k47078&rid=giphy.gif&c"> 
+```
+
+**O resultado é o mesmo:**
+
+<img src ="https://media3.giphy.com/media/daa8oT5L8Ox3ffWVjr/giphy.gif?cid=ecf05e47bsgonexr02yo6k2b72un2v41dgenbuinl2k47078&rid=giphy.gif&c"> 
+
+### E você também pode redimensionar a imagem.
+Adicionando as propriedades Height e Width na imagem:
+```
+<img src ="https://media3.giphy.com/media/daa8oT5L8Ox3ffWVjr/giphy.gif?cid=ecf05e47bsgonexr02yo6k2b72un2v41dgenbuinl2k47078&rid=giphy.gif&c" 
+height="100px" width="auto"> 
+```
+
+<img src ="https://media3.giphy.com/media/daa8oT5L8Ox3ffWVjr/giphy.gif?cid=ecf05e47bsgonexr02yo6k2b72un2v41dgenbuinl2k47078&rid=giphy.gif&c" 
+height="100px" width="auto">  
+
