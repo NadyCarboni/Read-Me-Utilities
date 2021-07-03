@@ -8,6 +8,38 @@ Esse repositório tem a finalidade de colocar utilidades se reutilizar para os R
 <img src ="https://64.media.tumblr.com/39240cabb4a10556459808190bd79195/cb61da9def746b60-be/s1280x1920/0f2196b58ec8bf38f21292d5a9fb7913e9245f39.png" height="5px" width="100%"> </p>
 
 ## Tópicos
-- [headers]('https://github.com/NadyCarboni/Read-Me-Utilities#headers')
+- Headers
+- Links
+- Imagens
+- Como modificar a largura/altura de uma imagem
+- Códigos
+- Colorir parte do código
+- Listas ordenadas
+- Listas não ordenadas
+- Checkbox
+- Quotes
+- Tabelas
+- Centralizar texto
+- Utilidades+
+- Créditos
 
-# Headers
+<p Align=center>
+<img src ="https://64.media.tumblr.com/39240cabb4a10556459808190bd79195/cb61da9def746b60-be/s1280x1920/0f2196b58ec8bf38f21292d5a9fb7913e9245f39.png" height="5px" width="100%"> </p>
+
+## Headers
+Headers ou cabeçalhos são equivalentes as tags H1, H2, H3, H4, H5 e H6 do HTML.
+
+Para utilizar os headers no Markdown você deve colocar "#"s na frente do seu texto. O nímero de **"#"s** deve ser **igual ao número do cabeçalho** que você deseja:
+```
+# Isso é um texto H1
+## Isso é um texto H2
+### Isso é um texto H3
+#### Isso é um texto H4
+##### Isso é um texto H5
+###### Isso é um texto H6
+```
+Isso resulta:
+
+![image](https://user-images.githubusercontent.com/69855489/124361710-dcf6ac00-dc06-11eb-88ac-f4b64c14c05d.png)
+
+
