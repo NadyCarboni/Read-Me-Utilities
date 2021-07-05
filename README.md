@@ -293,9 +293,11 @@ Isso é um texto centralizado
 Link | Para
 ------------ | -------------
 [Divisórias - tumblr](https://www.tumblr.com/search/divider)| Divisórias para organizar o texto e decoração
+[Divisórias - Deviantart](https://www.deviantart.com/search?q=divider) | Divisórias para organizar o texto e decoração
 [Gifs - Giphy ](https://giphy.com/stickers) | Decoração
 [Mini Gifs - SweetMagic](https://www.asweetmagic.com.br/2017/06/mini-gifs-kawaii-variados.html) | Decoração
 [Icones - icons8](https://icons8.com/icons) | Decoração e melhor usabilidade
+
 
 <p Align=center>
 <img src ="https://64.media.tumblr.com/39240cabb4a10556459808190bd79195/cb61da9def746b60-be/s1280x1920/0f2196b58ec8bf38f21292d5a9fb7913e9245f39.png" height="5px" width="100%"> </p>
